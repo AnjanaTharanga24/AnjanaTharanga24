@@ -1,4 +1,34 @@
 
+Hi there! 👋 Welcome to My GitHub Profile
+🌟 About Me
+I'm a passionate Software Developer with experience in [your expertise/fields]. I enjoy building applications, solving complex problems, and contributing to the tech community.
+
+🌱 Currently learning: [e.g., AI, Cloud Computing, etc.]
+💼 Working on: [your current projects or goals]
+🎯 Goals for 2025: [e.g., "Expand open-source contributions", "Learn a new programming language"]
+💬 Ask me about: [e.g., Spring Boot, React, etc.]
+📫 Reach me at: [your email or LinkedIn URL]
+🛠️ Tech Stack
+Here are the tools and technologies I work with:
+
+Languages:
+Frameworks:
+Database:
+Tools:
+🔥 GitHub Stats
+
+
+📂 Projects
+Here are some of my recent and notable projects:
+
+Project Name 1 - Brief description of the project
+Project Name 2 - Brief description of the project
+Project Name 3 - Brief description of the project
+🤝 Let's Connect!
+LinkedIn: Your LinkedIn Profile
+Portfolio: Your Portfolio URL
+Twitter: @yourhandle
+
 <h1 align="center">Hi 👋, I'm Anjana Tharanga</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
