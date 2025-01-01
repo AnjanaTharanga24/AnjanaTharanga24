@@ -1,40 +1,6 @@
+# 👋 Hello, I'm Anjana Tharanga
 
-Hi there! 👋 Welcome to My GitHub Profile
-🌟 About Me
-I'm a passionate Software Developer with experience in [your expertise/fields]. I enjoy building applications, solving complex problems, and contributing to the tech community.
-
-🌱 Currently learning: [e.g., AI, Cloud Computing, etc.]
-💼 Working on: [your current projects or goals]
-🎯 Goals for 2025: [e.g., "Expand open-source contributions", "Learn a new programming language"]
-💬 Ask me about: [e.g., Spring Boot, React, etc.]
-📫 Reach me at: [your email or LinkedIn URL]
-🛠️ Tech Stack
-Here are the tools and technologies I work with:
-
-Languages:
-Frameworks:
-Database:
-Tools:
-🔥 GitHub Stats
-
-
-📂 Projects
-Here are some of my recent and notable projects:
-
-Project Name 1 - Brief description of the project
-Project Name 2 - Brief description of the project
-Project Name 3 - Brief description of the project
-🤝 Let's Connect!
-LinkedIn: Your LinkedIn Profile
-Portfolio: Your Portfolio URL
-Twitter: @yourhandle
-
-<h1 align="center">Hi 👋, I'm Anjana Tharanga</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anjanatharanga24&label=Profile%20views&color=0e75b6&style=flat" alt="anjanatharanga24" /> </p>
-
-
+Full Stack Developer specializing in Java & JavaScript ecosystems.
 ---
 
 - 🌱 I’m currently learning **React and Spring framework**
@@ -45,68 +11,26 @@ Twitter: @yourhandle
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anjana tharanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjana tharanga" height="30" width="40" /></a>
-</p>
+## 🔧 Tech Stack
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
----
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaTharanga24&layout=compact&theme=tokyonight)](https://github.com/AnjanaTharanga24)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-              <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="70"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-                          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-                                    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> </p>
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjanaTharanga24&show_icons=true&theme=tokyonight)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-tharanga-99709228b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](anjanatharanga24@gmail.com)
 
 ---
 
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnjanaTharanga24&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaTharanga24&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnjanaTharanga24&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
