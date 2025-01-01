@@ -28,7 +28,7 @@ Full Stack Developer specializing in Java & JavaScript ecosystems.
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-tharanga-99709228b/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](anjanatharanga24@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto-anjanatharanga24@gmail.com)
 
 ---
 
