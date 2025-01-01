@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Anjana Tharanga
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnjanaTharanga24&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
 Full Stack Developer specializing in Java & JavaScript ecosystems.
 ---
 
